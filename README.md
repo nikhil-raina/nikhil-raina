@@ -1,4 +1,4 @@
-### Hey —I’m Nikhil! 👋  
+### Hey —[I’m Nikhil](https://info-me-drab.vercel.app/)! 👋  
 
 Cloud-first full-stack engineer turning ambitious ideas into production systems that **move electrons, bytes, and people**. I’ve spent the last four years at Ample building the frontend, backend and cloud infra that powers Ample's EV battery-swap stations worldwide
 
